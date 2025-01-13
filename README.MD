@@ -10,7 +10,7 @@ Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [freepik AI](https://www.freepik.com)
+- [Freepik AI](https://www.freepik.com)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
